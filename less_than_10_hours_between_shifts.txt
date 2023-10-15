@@ -1,0 +1,20 @@
+b) Employee Name: "CaMaXaWE
+  - Position: Active (Shift: 0.9833333333333333 hours)
+  - Position: Active (Shift: 1.0166666666666666 hours)
+b) Employee Name: "Xee
+  - Position: Active (Shift: 4.5 hours)
+  - Position: Active (Shift: 4.5 hours)
+  - Position: Active (Shift: 4.5 hours)
+b) Employee Name: "De Xa Cerda
+  - Position: Active (Shift: 3.8333333333333335 hours)
+b) Employee Name: "REdrigAez
+  - Position: Active (Shift: 3.533333333333333 hours)
+b) Employee Name: "MraW
+  - Position: Active (Shift: 4.5 hours)
+b) Employee Name: "CEreira Jr
+  - Position: Active (Shift: 6 hours)
+b) Employee Name: "DeXgadiXXE REdarMe
+  - Position: Active (Shift: 15.5 hours)
+  - Position: Active (Shift: 4.05 hours)
+b) Employee Name: "HaCiXMEW
+  - Position: Active (Shift: 0 hours)
